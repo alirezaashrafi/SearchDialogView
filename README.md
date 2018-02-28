@@ -1,5 +1,4 @@
-[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-Search%20Dialog%20Library-green.svg?style=flat )]( https://android-arsenal.com/details/1/6424 )
-[![](https://jitpack.io/v/alirezaashrafi/SearchDialog.svg)](https://jitpack.io/#alirezaashrafi/SearchDialog)
+
 
 # SearchDialog
 Android Search Dialog Library
@@ -21,7 +20,7 @@ Add the gradle dependency to your `app` module `build.gradle` file:
 
 ```
 	dependencies {
-	         compile 'com.github.alirezaashrafi:SearchDialog:v1.0'
+	         compile 'com.github.alirezaashrafi:SearchDialogView:1.0.0'
 	}
 
 ```
